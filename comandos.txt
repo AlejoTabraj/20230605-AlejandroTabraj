@@ -1,0 +1,20 @@
+  157  touch comandos.txt main.js index.html
+  158  git add .
+  159  git commit -m "commit 01 AlejandroTabraj"
+  160  cls
+  161  clear
+  162  git push
+  163  clear
+  164  git checkout -b feature
+  165  clear
+  166  mkdir Hardware Software SeguridadInformatica
+  167  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  168  git add .
+  169  git commit -m "commit 02 AlejandroTabraj"
+  170  clear
+  171  git checkout main
+  172  clear
+  173  mv main.js resumenHardware.txt
+  174  mv index.html resumenSofware.txt
+  175  clear
+  176  history
